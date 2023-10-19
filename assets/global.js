@@ -768,7 +768,7 @@ class VariantSelects extends HTMLElement {
       this.toggleAddButton(true, '', true);
       this.setUnavailable();
     } else {
-      this.updateMedia(); /* This section must not be commented */
+      //this.updateMedia(); /* This section must not be commented */
       this.updateURL();
       this.updateVariantInput();
       this.renderProductInfo();
