@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    const unsplashAccessToken = 'faCtH-n91ioF_1e7k_cSgHheUyGxnGdtvHOQ7TmnEGw';
+    const unsplashAccessToken = 'X--ixaOiAsFUEyO42HuU418AyQtjecql5aXycIz46gA';
     const imageElement = $('.image-with-text__media img');
     function getRandomPhoto() {
       $.ajax({
